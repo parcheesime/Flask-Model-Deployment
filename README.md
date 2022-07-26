@@ -11,4 +11,6 @@ Data Model: Flower Classification Model
 
 Model Deployment: Flask
 
-[Helpful Tutorial](https://www.section.io/engineering-education/deploying-machine-learning-models-using-flask/)
+[Helpful Tutorial 1](https://www.section.io/engineering-education/deploying-machine-learning-models-using-flask/)
+
+[Helpful Tutorial 2](https://www.youtube.com/watch?v=MxJnR1DMmsY)
