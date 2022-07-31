@@ -2,10 +2,6 @@ anaconda==0.0.1.1
 beautifulsoup4==4.10.0
 certifi==2020.12.5
 charset-normalizer==2.0.12
-Django==4.0.3
-django-emoji==2.2.2
-emac==0.1.0
-emoji==1.7.0
 entrypoints==0.4
 executing==0.8.3
 filelock==3.6.0
