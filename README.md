@@ -13,6 +13,10 @@ Data Model: Flower Classification Model
 
 Model Deployment: Flask
 
+> Week 5: Flask Deployment Using HEroku
+
+>[PDF File](https://drive.google.com/file/d/1yHkk7fY06et9Q58Sm1Lik8pijAVQE-0a/view?usp=sharing)
+
 > Refrences
 
 [Data](https://www.section.io/engineering-education/deploying-machine-learning-models-using-flask/)
