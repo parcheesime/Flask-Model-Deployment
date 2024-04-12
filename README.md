@@ -1,5 +1,25 @@
-# Flask-Model-Deployment
-Iris Model Deployment Using Flask
+# Iris Model Deployment Using Flask on Heroku
+
+Project Overview:
+
+This project was developed as part of the Data Glacier Internship during Week 4 and 5. It involves the deployment of a machine learning model that classifies species of the Iris flower based on the dataset provided. The model is built using Python and Flask and deployed on Heroku, offering a practical demonstration of web app and API deployment.
+
+Features:
+
+Data Source: Iris dataset (iris.csv)
+
+Model: Flower Classification Model
+
+Technologies Used: Flask for API creation and Heroku for deployment.
+
+
+Deployment:
+
+The model is hosted as a web application on Heroku, providing a user-friendly interface and API access.
+
+Week 4: Initial deployment using Flask.
+Week 5: Refined deployment process on Heroku, improving stability and performance.
+
 
 > Data Glacier Project
 
